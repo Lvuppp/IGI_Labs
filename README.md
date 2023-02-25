@@ -1,3 +1,3 @@
-# IGILabs
-Student Bagrovets Egor Sergeevich
-Group number 153504 
+# IGI_Labs
+Student Bagrovets Egor Sergeevich.\
+Group number 153504.
